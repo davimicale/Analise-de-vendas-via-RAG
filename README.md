@@ -17,3 +17,4 @@ cuperados. Complementarmente, gráficos do tipo barras e pizza são utilizados p
  Como contribuição, a proposta se destaca por integrar componentes avançados de
  inteligêncial artificial em um fluxo coeso, demonstrando o potencial de modelos grandes
  de linguagem aplicados a contextos de vendas.
+
