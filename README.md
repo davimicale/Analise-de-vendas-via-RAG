@@ -1,6 +1,6 @@
 # Geração Aumentada por Recuperação Aplicada à Análise de Vendas: Comparação de Categorias de Produtos e Períodos
 
-Com o crescimento do comércio eletrônico, decidi desenvolver uma solução inteligente que ajuda a interpretar e comparar o desempenho de produtos vendidos em diferentes períodos e categorias.
+Com o crescimento do comércio eletrônico, decidi desenvolver uma solução inteligente como tese do meu TCC que ajude a interpretar e comparar o desempenho de produtos vendidos em diferentes períodos e categorias.
 
 Minha proposta integra:
 
