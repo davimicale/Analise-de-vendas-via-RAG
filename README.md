@@ -38,7 +38,7 @@ _"Total sales for the period was 2655 compared to 1003 in terms of revenue and d
 
 ### Gráficos Períodos:
 
-<imagem>
+![Image](https://github.com/user-attachments/assets/cd050242-747e-4e2a-aac4-b0a01079104c)
 
 ## Comparação entre Categorias: “Difference in sales between phone and tv”
 
@@ -56,4 +56,4 @@ _"Total sales for the period was 2655 compared to 1003 in terms of revenue and d
 
  ### Gráficos Categoria:
 
-<imagem>
+![Image](https://github.com/user-attachments/assets/b3ebc032-a45e-486a-8318-c20b380cc111)
